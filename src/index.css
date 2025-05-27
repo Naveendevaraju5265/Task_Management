@@ -1,8 +1,12 @@
+* {
+  box-sizing: border-box;
+}
 body {
   font-family: sans-serif;
   background-color: #1a144e;
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 .dashboard {
