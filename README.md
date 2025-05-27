@@ -16,4 +16,5 @@ A React-based Task Management Dashboard that allows users to:
 3. Run `npm start` to start the development server
 
 ## Screenshots
-(Add screenshots if available)
+Home Page:
+
