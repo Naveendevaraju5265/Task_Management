@@ -21,6 +21,8 @@ const Modal = ({ children, onClose }) => {
         borderRadius: "8px",
         width: "90%",
         maxWidth: "600px",
+        maxHeight: "80vh",
+        overflowY: "auto",
         boxShadow: "0 2px 10px rgba(0,0,0,0.3)"
       }}
       onClick={e => e.stopPropagation()}
