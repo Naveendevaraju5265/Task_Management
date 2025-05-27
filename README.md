@@ -29,4 +29,7 @@ Update task:<br>
 <img width="540" alt="Image" src="https://github.com/user-attachments/assets/46fcfce3-ed10-48c0-a446-d325a69a905d" />
 
 Delete task:<br>
-<img width="322" alt="Image" src="https://github.com/user-attachments/assets/e5310870-aaba-4bd1-b59a-f2cb5e50d5e4" />
+<img width="322" alt="Image" src="https://github.com/user-attachments/assets/226e1e2b-2f98-4028-b5e9-f8c494b0531c" />
+
+##Author
+Naveen D
