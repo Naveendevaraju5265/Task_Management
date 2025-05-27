@@ -109,9 +109,6 @@ const TaskForm = ({ selectedTask, onFinish }) => {
         placeholder="dd-mm-yyyy"
         style={inputStyle}
       />
-      <small style={{ color: "#666", fontSize: "12px", marginTop: "-8px", marginBottom: "8px" }}>
-        Date format: dd-mm-yyyy
-      </small>
       <input
         name="assignedTo"
         placeholder="Assigned User"
