@@ -31,5 +31,5 @@ Update task:<br>
 Delete task:<br>
 <img width="322" alt="Image" src="https://github.com/user-attachments/assets/226e1e2b-2f98-4028-b5e9-f8c494b0531c" />
 
-##Author
+## Author <br>
 Naveen D
