@@ -20,8 +20,6 @@ const TaskItem = ({ task, onEdit, onDelete }) => {
         borderRadius: "8px",
         marginBottom: "20px",
         boxShadow: "0 2px 8px rgba(0,0,0,0.1)",
-        // width: "70%",           // Half of parent width
-        // margin: "0 auto",       // Centers horizontally
       }}
     >
       <h3><strong>{"Task-Name: "} {task.title}</strong></h3>
