@@ -94,7 +94,7 @@ font-weight: 700;
 /* Responsive adjustments for task-card */
 @media (max-width: 768px) {
   .task-card {
-    width: 98%;
+    width: 100%;
     padding: 15px;
   }
 }
