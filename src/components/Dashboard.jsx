@@ -64,10 +64,10 @@ const Dashboard = () => {
     style={{
       backgroundColor: "white",
       padding: "12px 24px",
-      borderRadius: "12px", // Rounded corners
+      borderRadius: "12px", 
       display: "inline-block",
       boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
-      border: "2px solid #1a144e" // Blue border
+      border: "2px solid #1a144e"
     }}
 >
   Task Management Dashboard
