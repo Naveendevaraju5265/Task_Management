@@ -39,13 +39,13 @@ const TaskItem = ({ task, onEdit, onDelete }) => {
             marginBottom: "8px",
             alignItems: "center",
             justifyContent: "flex-start",
-            gap: "10px",
+            gap: "6px",
             flexWrap: "wrap"
           }}
         >
           <strong
             style={{
-              minWidth: "120px",
+              minWidth: "100px",
               textAlign: "left",
               display: "inline-block"
             }}
