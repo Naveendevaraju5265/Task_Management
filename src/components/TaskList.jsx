@@ -15,7 +15,7 @@ const TaskList = ({ onEdit }) => {
         display: "flex",
         flexDirection: "column",
         gap: "20px",
-        width: "100%", // Take full screen width
+        width: "100%",
         padding: "0 40px",
         boxSizing: "border-box"
       }}
